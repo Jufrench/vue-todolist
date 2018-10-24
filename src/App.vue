@@ -24,7 +24,7 @@
                         <span v-else class="col-sm-8">
                            <h5>{{ todo.name }}</h5>
                         </span>
-                        <span @click="deleteTodo(todo)" class="col-sm-2 delete ml-4">X</span>
+                        <span @click="deleteTodo(todo)" class="offset-sm-1 col-sm-2 delete text-right">X</span>
                       </div>
                    </li>
                 </ul>
