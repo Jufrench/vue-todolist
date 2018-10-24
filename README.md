@@ -1,4 +1,4 @@
-# vue-todolist
+# Vue.js Todo List
 
 > A Todo List made with Vue.js
 
